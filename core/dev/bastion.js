@@ -11,7 +11,6 @@ ItemID.BastionGenerator, 3);
 var c = new UI.StandartWindow({
   location: {
   height:61,
-  
   wight: 74,
   },
 	drawing: [{type: "background", color: 0}],
